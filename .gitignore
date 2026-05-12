@@ -1,0 +1,9 @@
+build/
+dist/
+*.exe
+*.wav
+*.pdf
+*.txt
+ffmpeg-*/
+__pycache__/
+venv/
