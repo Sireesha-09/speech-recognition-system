@@ -44,7 +44,7 @@ speech_recognition_system/
 ⚙️ Installation Guide
 
 1️⃣ Clone Repository
-git clone https://github.com/your-username/speech-recognition-system.git
+git remote add origin https://github.com/Sireesha-09/speech-recognition-system.git
 cd speech-recognition-system
 2️⃣ Install Dependencies
 pip install SpeechRecognition
@@ -137,7 +137,7 @@ Audio must be in .wav format (PCM 16-bit recommended)
 FFmpeg must be installed for audio processing
 Internet required for Google Speech API
 
-👨‍💻 Author
+👨‍💻 Author-Sireesha Gorantla
 
 Internship Project — Speech Recognition System (AI + Python)
 Developed as part of CODTECH Internship Task
